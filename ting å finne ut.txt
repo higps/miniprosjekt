@@ -5,8 +5,17 @@ Steg 1: Oversikt over hva slags data vi sitter med
 Infoen vi sitter på så langt:
 Hva som blir solgt
 Hvor det blir solgt (butikk)
-Hvor mye det blir solgt for
+Hvor mye det blir solgt for (Prisen kan endre seg)
 Når det ble solgt.
 
 Hva vi mangler:
 Profitt og utgifter
+
+
+Mulig interessant statistikk:
+Salg enten som sum of item_price/sum_count
+
+Salg/produkt(produkt, kategori)
+Salg/butikk
+Salg/dato(dag, måned, quarter, år)
+
