@@ -1,0 +1,12 @@
+Ting å finne ut av mini prosjekt:
+
+Steg 1: Oversikt over hva slags data vi sitter med
+
+Infoen vi sitter på så langt:
+Hva som blir solgt
+Hvor det blir solgt (butikk)
+Hvor mye det blir solgt for
+Når det ble solgt.
+
+Hva vi mangler:
+Profitt og utgifter
