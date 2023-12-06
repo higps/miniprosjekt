@@ -4,15 +4,16 @@
 
 
 ## Todo
++ Ikke bruk ID som features
 + Finn salg fra forrige måned
 + Legg til lag 1 for måned
-+ Inpute 0 verdi for nan verdier i kombinasjoner som ikke fins i originale datasettet
+
 + Prediker mot forrige måned
 + Ingen data leakage
 
 ## COMPLETE
 + Lag alle kombinasjoner av items og butikker
-
++ Inpute 0 verdi for nan verdier i kombinasjoner som ikke fins i originale datasettet
 
 ## STEPS
 + __1__
