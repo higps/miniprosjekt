@@ -1,20 +1,17 @@
 ## Target
-+ Prediker salg, med lag på en måned
++ Prediker salg, med lag på en måned, predikeres med item count, antall varer som blir solgt
     + Justberbar i dash hvis tid tillater, der du kan justere på forrige måned
 
 
 ## Todo
 + Ikke bruk ID som features
-+ Finn salg fra forrige måned
-+ Legg til lag 1 for måned
-
 + Prediker mot forrige måned
 + Ingen data leakage
 
 ## COMPLETE
-+ Lag alle kombinasjoner av items og butikker
++ Legg til lag 1 for måned
++ Finn salg fra forrige måned
++ Funnet salg mot forrige år, men ikke første år
++ Lag alle kombinasjoner av items og butikker som forekommer innenfor samme måned
++ Summert item count for overordnet til sammen
 + Inpute 0 verdi for nan verdier i kombinasjoner som ikke fins i originale datasettet
-
-## STEPS
-+ __1__
-    + Lag cross joinet tabell med null verdier slik at vi får en oversikt over alle butikkers forhold til alle varer
