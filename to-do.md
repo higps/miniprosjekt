@@ -5,6 +5,7 @@
 
 ## Todo
 + Ikke bruk ID som features
++ Legge inn dato fra Kristoffers ark. Joines direkte på dato
 + Prediker mot forrige måned
 + Ingen data leakage
 
